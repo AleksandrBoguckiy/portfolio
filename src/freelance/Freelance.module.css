@@ -1,0 +1,24 @@
+.freelanceBlock {
+    height: 40vh;
+    background-color: khaki;
+}
+
+.freelanceTitle {
+    margin-top: 0;
+    background-color: darkgrey;
+}
+
+.freelance {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.freelanceButton {
+    width: 200px;
+}
+

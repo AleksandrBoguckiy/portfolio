@@ -1,0 +1,33 @@
+.footerBlock {
+    height: 40vh;
+    background-color: #65e78d;
+}
+
+.footer {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.widgets {
+    width: 250px;
+    height: 40px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footerTitle {
+    margin-bottom: 0;
+    background-color: darkgrey;
+}
+
+.headerTitle {
+    margin-top: 0;
+    background-color: darkgrey;
+}

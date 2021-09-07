@@ -1,0 +1,29 @@
+.contactsBlock {
+    height: 100vh;
+    background-color: lightpink;
+}
+
+.contacts {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactsTitle {
+    margin-top: 0;
+    background-color: darkgrey;
+}
+
+.contactsForm {
+    margin: 30px;
+    width: 200px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactsForm input {
+    margin: 0 0 5px;
+}
