@@ -4,7 +4,6 @@
 }
 
 .freelanceTitle {
-    margin-top: 0;
     background-color: darkgrey;
 }
 
@@ -20,5 +19,7 @@
 
 .freelanceButton {
     width: 200px;
+    margin: 50px 0 20px;
+    padding: 10px;
 }
 

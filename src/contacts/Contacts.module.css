@@ -27,3 +27,7 @@
 .contactsForm input {
     margin: 0 0 5px;
 }
+
+.contactsButton {
+    padding: 10px;
+}

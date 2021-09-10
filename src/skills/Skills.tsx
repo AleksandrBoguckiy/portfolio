@@ -13,7 +13,7 @@ export const Skills = () => {
                     <Skill title={'CSS'}
                            description={'CSS бомба, огонь бррррррыл дтфвтао фжвтаотв офжТА Офыуваф ываы фвпаыфв'}/>
                     <Skill title={'REACT'}
-                           description={'REACT ракета, огонь бррррррыл дтфвтаофжв таотвофжТАО фываывфаыфва ыфваыфва'}/>
+                           description={'REACT ракета, огонь бррррррыл дтфвтаофжв таотвофжТАО фываывфаыфва ыфваыфваsads a  dasd ads a sadasd'}/>
                 </div>
             </div>
         </div>
